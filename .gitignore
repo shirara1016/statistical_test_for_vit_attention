@@ -1,0 +1,11 @@
+__pycache__
+example
+result.txt
+path_for_errorfile
+path_for_stdoutfile
+results_*
+realdata
+robust
+test_derivative_vit.ipynb
+qsub*
+model/brain.h5
