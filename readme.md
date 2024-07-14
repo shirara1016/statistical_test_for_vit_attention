@@ -1,5 +1,5 @@
-# Statistical Test for Attention Map in Vision Transformer
-This pacakge is the implementation of the paper "Statistical Test for Attention Map in Vision Transformer" for experiments.
+# Statistical Test for Attention Maps in Vision Transformers
+This pacakge is the implementation of the paper "Statistical Test for Attention Maps in Vision Transformers" for experiments.
 
 ## Installation & Requirements
 This pacakage has the following dependencies:
